@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PasitosApp</string>
+    <string name="google_maps_key"
+        templateMergeStrategy="preserve"
+        translatable="false">
+        AIzaSyC0SBYy08PS69rMhGwsV-luz2amaBSgkk8
+    </string>
+    <string name="boton1">Crear marcador</string>
+    <string name="boton2">Volver a Studium</string>
+
+    <string name="txt_latitud">Latitud:</string>
+    <string name="txt_longitud">Longitud:</string>
+</resources>
